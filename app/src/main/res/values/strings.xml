@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">App de Restaurante - Java</string>
+    <string name="imagem_da_comida">imagem da Comida</string>
 </resources>
